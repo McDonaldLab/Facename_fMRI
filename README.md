@@ -9,7 +9,7 @@ All data is formatted into BIDS conforming with current standards. All preproces
 Things you will need when running this pipeline:
 
   1) Access to the McDonald Lab MMIL server account
-  2) Established UCSD VPN Connection
+  2) Established UCSD VPN Connection (if working remotely)
   3) AFNI installed on local machine
   
 Proceeding through the pipeline:
