@@ -4,7 +4,7 @@ Comprehensive task-based fMRI pipeline for McDonald Lab as of 10/2020
 
 Tasks include: Mnemonic Separation Task and Face-Name Task
 
-All data is formatted into BIDS conforming with current standards. All preprocessing is performed using fmriprep. 1st and 2nd level analyses are done in AFNI. For more information about running fmriprep in the McDonald Lab, see our separate repository.
+All data is formatted into BIDS conforming with current standards. All preprocessing is performed using fmriprep. 1st and 2nd level analyses are done in AFNI. For more information about running fmriprep in the McDonald Lab, see our fmriprep repository.
 
 Things you will need when running this pipeline
 
